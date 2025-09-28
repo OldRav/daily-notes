@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-09-28T18:32:12.899753",
+  "version": "1.7",
+  "metrics": {
+    "value": 74.84945317388903,
+    "trend": "down",
+    "samples": [
+      5,
+      96,
+      16,
+      89,
+      30
+    ]
+  },
+  "metadata": {
+    "id": "44d86c14",
+    "status": "processed"
+  }
+}
